@@ -1,0 +1,14 @@
+{
+  "name": "tu",
+  "version": "1",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "./node_modules/.bin/mocha --recursive"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.16.3",
+    "mocha": "^5.1.1"
+  }
+}
